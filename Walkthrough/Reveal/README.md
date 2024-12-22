@@ -1,11 +1,3 @@
----
-title: Cyberdefenders Reveal Walkthough
-tags: [Cyber Defender, Memory Forensic, Volatility, Stealer]
-
----
-
-> [name=Xiaobai0426]
-
 ###### tags: `Memory Forensic` `Volatility` `Stealer`
 
 # Cyberdefenders Reveal Hunt Walkthough

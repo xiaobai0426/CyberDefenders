@@ -1,11 +1,3 @@
----
-title: Cyberdefenders WebStrike Walkthough
-tags: [Cyber Defender, Wireshark, PCAP, Exfiltration]
-
----
-
-> [name=三重商工 白又銘]
-
 ###### tags: `Cyber Defender` `Wireshark` `PCAP` `Exfiltration`
 
 # Cyberdefenders WebStrike Walkthough
